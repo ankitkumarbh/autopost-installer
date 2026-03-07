@@ -1,5 +1,6 @@
 pylast
 telethon
+motor
 wheel
 requests
 python-telegram-bot
